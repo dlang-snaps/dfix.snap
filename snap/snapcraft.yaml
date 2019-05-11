@@ -1,9 +1,9 @@
 name: dfix
 version: 0.3.5
-summary: The dfix is a tool for automatically upgrading D source code
+summary: Developer tool to auto-upgrade D source code
 description: |
-    The dfix, is a cross platform tool for automatically upgrading D source code. 
-    It's used by several text editors and IDE to get IDE-grade features.
+  Command-line utility to automate the process of upgrading D source code
+  from old or deprecated syntax to newer forms.
 confinement: classic
 grade: stable
 
